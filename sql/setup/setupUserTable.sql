@@ -1,0 +1,1 @@
+CREATE  TABLE `databas`.`users` (`email` VARCHAR(50), `first name` VARCHAR(50), `last name` VARCHAR(50), `password` VARCHAR(50), `role` VARCHAR(20), PRIMARY KEY (email)) ENGINE = InnoDB; '

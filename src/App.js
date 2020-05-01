@@ -1,10 +1,14 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Jordan from './jordan.js';
+import ComponentJ from './component.js'
+
 
 function App() {
   return (
     <div className="App">
+      <Jordan jordaniscool='yes'/>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -19,6 +23,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <ComponentJ />
     </div>
   );
 }
