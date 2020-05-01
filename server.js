@@ -56,7 +56,6 @@ function queryAllByEmail(Email){
     });
     console.log('Connected to database.');
   });
-  
 }
 // queryAllByEmail(user2.email);
 // 😊🤣🤣🤣🤣❤❤❤🤣🤣🤣🤣😊😂😂😂😊😊😊😁💕😍😒😒😒😒😒
