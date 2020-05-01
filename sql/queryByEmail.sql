@@ -1,1 +1,1 @@
-SELECT * FROM `databas`.`users` WHERE  `email` = ?;
+SELECT * FROM `mpsClockIn`.`users` WHERE  `email` = ?;

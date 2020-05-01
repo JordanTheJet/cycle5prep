@@ -1,1 +1,1 @@
-SELECT * FROM `databas`.`users`;
+SELECT * FROM `mpsClockIn`.`users`;

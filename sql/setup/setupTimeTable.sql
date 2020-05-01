@@ -1,0 +1,1 @@
+CREATE  TABLE `mpsClockIn`.`TimeLog` (`userID` INT(9), `logID` INT(9) AUTO_INCREMENT, `UploadDate` TIMESTAMP, `Task` VARCHAR(24), `Date` DATE, `Hours` FLOAT, PRIMARY KEY (logID) )

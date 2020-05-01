@@ -1,1 +1,1 @@
-INSERT INTO databas.users(email, `first name`, `last name`, `password`, `role`)VALUES(?, ?, ?, ?, ?);
+INSERT INTO mpsClockIn.users(email, `first name`, `last name`, `password`, `role`)VALUES(?, ?, ?, ?, ?);

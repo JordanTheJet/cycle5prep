@@ -1,1 +1,1 @@
-CREATE  TABLE `databas`.`users` (`email` VARCHAR(50), `first name` VARCHAR(50), `last name` VARCHAR(50), `password` VARCHAR(50), `role` VARCHAR(20), PRIMARY KEY (email)) ENGINE = InnoDB; '
+CREATE  TABLE `database`.`users` (`id` INT(9) IDENTITY, `email` VARCHAR(50), `first name` VARCHAR(50), `last name` VARCHAR(50), `password` VARCHAR(50), `role` VARCHAR(20), PRIMARY KEY (id)) ENGINE = InnoDB; '
